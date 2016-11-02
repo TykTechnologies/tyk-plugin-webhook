@@ -1,0 +1,16 @@
+{
+  "file_list": [
+    "middleware.py",
+    "webhook.py"
+  ],
+  "custom_middleware": {
+    "pre": [
+      {
+        "name": "WebhookMiddleware"
+      }
+    ],
+    "driver": "python"
+  },
+  "checksum": "",
+  "signature": ""
+}
